@@ -7,21 +7,23 @@ To design and implement an automated threat detection and response system by int
 
 ### Skills Learned 
 
-- Built automated security workflows using Tines (SOAR).
+- Security Automation – Built automated detection and response workflows using Tines, LimaCharlie, slack and email.
 
-- Set up alerting and notification systems in Tines.
+- SOAR Integration – Configured Tines for alert handling, notifications, and user-driven actions.
 
-- Used Lima Charlie to monitor and detect suspicious endpoint activities.
+- EDR Usage – Monitored endpoints with LimaCharlie to detect suspicious activity.
 
-- Created workflows for real-time incident response and machine isolation.
+- Alerting & Notifications – Set up automated Slack and Email alerts for security incidents.
 
-- Developed processes to quickly contain threats and reduce response time.
+- Incident Response – Enabled user decisions for actions like isolating compromised machines.
 
-- Integrated Tines, Lima Charlie, Slack, and Email into one automated solution.
+- API Integration – Connected SOAR, EDR, and messaging tools through API-based workflows.
 
-- Configured automated alerts via Slack and Email for better communication.
+- Threat Detection – Identified risky behaviors  on endpoints.
 
-- Learned proactive threat detection and response methods.
+  
+
+
 
 
 
