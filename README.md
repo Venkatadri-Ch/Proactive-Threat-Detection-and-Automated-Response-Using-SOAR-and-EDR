@@ -180,6 +180,11 @@ Similar to "NO" option I have given "YES" option to the USER PROMPT and I have c
 
 ![part-5 yes part completed](https://github.com/user-attachments/assets/e3b7cc76-0f93-4bbd-8c6f-6181f4abe916)
 
+Complete story board:
+
+![Your first story-storyboard](https://github.com/user-attachments/assets/125effc0-e87d-4165-b7a2-75aee531e4c9)
+
+
 Status of machine before user selects yes:
 
 ![part-5 before isolated](https://github.com/user-attachments/assets/71f44cd0-2cfe-4ea6-b2bb-a8eb64322086)
@@ -197,6 +202,8 @@ We can see that Isolated machine not pinging:
 Isolated message in the slack:
 
 <img width="765" alt="image" src="https://github.com/user-attachments/assets/e6cb280e-a564-4cb8-8f10-b1490d622731" />
+
+
 
 
 
