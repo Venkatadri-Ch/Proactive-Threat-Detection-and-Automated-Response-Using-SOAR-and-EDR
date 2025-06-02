@@ -203,7 +203,9 @@ Isolated message in the slack:
 
 <img width="765" alt="image" src="https://github.com/user-attachments/assets/e6cb280e-a564-4cb8-8f10-b1490d622731" />
 
+#### RESULTS 
 
+The project successfully integrated Tines (SOAR) with Lima Charlie (EDR) to create an automated threat detection and response system. It effectively detected suspicious activities, such as the execution of password recovery tools, in real-time. Alerts were automatically sent via Slack and Email, ensuring quick awareness and response by the security team and isolation of infected machine was also done. Overall, the solution reduced response times, improved incident handling efficiency, and proved to be reliable, scalable, and effective in streamlining security operations.
 
 
 
