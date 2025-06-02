@@ -88,6 +88,8 @@ we can check at LimaCharlie also by seeing at sensors list:
 ### STEP 5
 
 Download LaZagne(open-source tool used to extract passwords stored on a local computer) on the windows VM :
+      
+Lazagne: https://github.com/AlessandroZ/LaZagne
 
 ![Downloaded LaZagne](https://github.com/user-attachments/assets/451b54ad-d696-4bbc-82bd-6814e840ee80)
 
