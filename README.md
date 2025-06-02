@@ -184,10 +184,6 @@ Similar to "NO" option I have given "YES" option to the USER PROMPT and I have c
 
 ![part-5 yes part completed](https://github.com/user-attachments/assets/e3b7cc76-0f93-4bbd-8c6f-6181f4abe916)
 
-Complete story board:
-
-![Your first story-storyboard](https://github.com/user-attachments/assets/125effc0-e87d-4165-b7a2-75aee531e4c9)
-
 
 Status of machine before user selects yes:
 
