@@ -107,6 +107,8 @@ In this step , I will create new Detection and Response rule , we can see D & R 
 
 click on add rule, to create your own rules :
 
+D&R Response rule: https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR/blob/main/D%26R%20rule
+
 ![new detection and response rule](https://github.com/user-attachments/assets/bc0a3ffb-4021-4008-a9ce-f23521f88e7a)
 
 sucessfully added new rule :
